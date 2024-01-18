@@ -3,7 +3,7 @@
 ## Introduction
 1. In this repository, I have made a personal project to generate the names of a restaurant and sequentially input the name of the restaurant to another prompt template to generate the menu items as well. The project uses the Sequential Chain model from the LangChain Framework to output two values instead of one.
 
-2. The LangChain framework has been implemented with OpenAI's api key which could be generated from personal Open AI account.
+2. The LangChain framework has been implemented with OpenAI's api key which could be generated from personal Open AI account. NOTE: Make a secret_key.py file and enter your API key.
 
 3. The following image is a snanpshot of how the final output looks like in the web browser:
  ![image](https://github.com/sudhxan/GenAI-LangChain---Name-Generator/assets/80266211/6cb87883-1742-453d-8d7f-90d1572a3b6a)
