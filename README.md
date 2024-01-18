@@ -1,6 +1,6 @@
 # GenAI-LangChain---Name-Generator
 
-##Introduction
+## Introduction
 1. In this repository, I have made a personal project to generate the names of a restaurant and sequentially input the name of the restaurant to another prompt template to generate the menu items as well. The project uses the Sequential Chain model from the LangChain Framework to output two values instead of one.
 
 2. The LangChain framework has been implemented with OpenAI's api key which could be generated from personal Open AI account.
@@ -10,7 +10,7 @@
 
 5. The Generative AI model is hosted for free using the Streamlit application.
 
-##Steps to execute the project:
+## Steps to execute the project:
 1. Install openai module:
 !pip install openai
 
