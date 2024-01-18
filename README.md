@@ -1,4 +1,4 @@
-# GenAI-LangChain---Name-Generator
+# GenAI-LangChain-Name-Generator
 
 ## Introduction
 1. In the provided repository, a personal project has been developed to innovate in the culinary domain through AI-assisted creativity. Utilizing the LangChain Framework's Sequential Chain model, this project uniquely generates restaurant names and then uses those names to inspire a sequence of menu items. This dual-output capability of the Sequential Chain model demonstrates a novel application of AI in generating cohesive and contextually related content.
